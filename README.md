@@ -1,2 +1,3 @@
-# Calculator_Project
-A responsive calculator app  built using JavaScript, HTML, and CSS.
+# Calculator App
+
+This Calculator App is a responsive web-based tool that supports basic arithmetic operations like addition, subtraction, multiplication, and division. It also includes percentage calculations and handles decimal values accurately. The app features a clean, user-friendly interface with buttons for clearing input and correcting expressions using "AC" and "clear" options. It intelligently evaluates mathematical expressions by converting symbols like "x" and "÷" into their respective operations. Built using JavaScript, HTML, and CSS, it ensures an intuitive experience across devices of all screen sizes.
